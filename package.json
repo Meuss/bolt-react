@@ -1,7 +1,7 @@
 {
-  "name": "bolt-react",
+  "name": "react-frontent-masters",
   "version": "8.0.0",
-  "description": "Complete Intro to React v8 project",
+  "description": "Intro + intermediate React course from Brian Holt",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
