@@ -11,6 +11,7 @@
     "build": "npm run build:client && npm run build:server",
     "preview": "vite preview",
     "format": "prettier --write \"src/**/*.{js,jsx}\"",
+    "formatcheck": "prettier --check \"src/**/*.{js,jsx,ts,tsx}\"",
     "lint": "eslint \"src/**/*.{js,jsx}\" --quiet",
     "start": "node --experimental-fetch server.js"
   },
